@@ -1,0 +1,1343 @@
+{
+  "settings": {
+    "name": "Cardenal",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#1f090c",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#be1e1a",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#1f090c",
+        "#fbfafa",
+        "#be1e1a",
+        "#420f14",
+        "#e94c29",
+        "#a0a0a0"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "uniqCompNum": 28,
+    "versionPublish": "4.12.3",
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#1f090c"
+            },
+            ".mbr-section-lead": {
+              "color": "#420f14"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fondo-web-2000x1224.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "Cardenal, Revista Literaria",
+          "text": "Dando voz.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">ADQUIRIR</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-3"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
+            "labelsColor": "#420f14",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fbfafa",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "FORMA DE CONTACTO",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTÁCTANOS</a>",
+          "form": {
+            "action": "A01374781@itesm.mx",
+            "alerts": {
+              "success": "¡Gracias por ponerte en contacto!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nombre*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Correo electrónico*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Teléfono"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensaje*"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-b",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#420f14"
+            },
+            ".mbr-section-title": {
+              "color": "#1f090c"
+            }
+          }
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".btn-social > *": {
+              "vertical-align": "middle",
+              "padding-right": "0"
+            },
+            ".mbr-section-title": {
+              "color": "#fbfafa"
+            }
+          },
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#420f14",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "SÍGUENOS",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/cardenalrevista/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCHy_zV7j2lC7DSN28pJlAzw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/cardenalrevista/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>      ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-a"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fbfafa",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#1f090c",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#1f090c"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#1f090c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#1f090c"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e4dede"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f4f1f1!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fbfafa"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#1f090c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#1f090c!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/isotipo-1-98x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1f090c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logotipo-final-14.jpg-128x81.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Dakota No. 91-2 Col. Nápoles, Alcaldía Benito Juárez CP. 03810",
+          "text2": "<strong>Contacto</strong><br>revistaliterariacardenal@gmail.com<br>",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-5",
+          "_styles": {
+            "P": {
+              "color": "#fbfafa",
+              "text-align": "left"
+            }
+          }
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "Nuestros autores",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "testimonials1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#be1e1a"
+            },
+            ".mbr-author-name": {
+              "color": "#1f090c"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#420f14"
+            },
+            ".mbr-author-desc": {
+              "color": "#420f14"
+            },
+            ".card-block": {
+              "color": "#1f090c"
+            },
+            ".card-block P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showImages": false,
+            "showName": true,
+            "showBio": true,
+            "count": "18",
+            "paddingTop": "3",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/fondo-web-2000x1224.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fbfafa",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "title": "Nuestros autores",
+          "subtitle": "Las plumas que nos dan vida.",
+          "testimonial": [
+            {
+              "authorName": "Mercedes Alvarado",
+              "authorBio": "1984",
+              "text": "<p>Es\n&nbsp;<span style=\"font-size: 1.125rem;\">autora de los poemarios Apuntes&nbsp;</span><span style=\"font-size: 1.125rem;\">de algún tiempo (2012) y Cuerpos&nbsp;</span><span style=\"font-size: 1.125rem;\">ajenos (2006). En 2017 produjo Y\n&nbsp;</span><span style=\"font-size: 1.125rem;\">hasta la muerte amar, proyecto&nbsp;</span><span style=\"font-size: 1.125rem;\">que conjuga ilustración, poesía\n&nbsp;</span><span style=\"font-size: 1.125rem;\">y dos cortometrajes animados al</span><span style=\"font-size: 1.125rem;\">rededor de la tradición de Día de\n&nbsp;</span><span style=\"font-size: 1.125rem;\">Muertos. Su poesía ha formado&nbsp;</span><span style=\"font-size: 1.125rem;\">parte de espectáculos de danza&nbsp;</span><span style=\"font-size: 1.125rem;\">contemporánea en México, No</span><span style=\"font-size: 1.125rem;\">ruega, Estocolmo y Bali.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Mario Bellatin",
+              "authorBio": "1960",
+              "text": "<p>Es<span style=\"font-size: 1.125rem;\">tudió Teología y Ciencias de la&nbsp;</span><span style=\"font-size: 1.125rem;\">Comunicación. Ha publicado las&nbsp;</span><span style=\"font-size: 1.125rem;\">novelas Damas chinas, Flores y El&nbsp;</span><span style=\"font-size: 1.125rem;\">libro uruguayo de los muertos, en</span><span style=\"font-size: 1.125rem;\">tre otras. En el año 2000 fundó&nbsp;</span><span style=\"font-size: 1.125rem;\">la Escuela Dinámica de Escrito</span><span style=\"font-size: 1.125rem;\">res, en 2001 ganó el Premio Xa</span><span style=\"font-size: 1.125rem;\">vier Villaurrutia y fue becario&nbsp;</span><span style=\"font-size: 1.125rem;\">Guggenheim en 2002. Parte de&nbsp;</span><span style=\"font-size: 1.125rem;\">su obra ha sido traducida al ale</span><span style=\"font-size: 1.125rem;\">mán, italiano, portugués e inglés.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Roberto Amézquita",
+              "authorBio": "1985",
+              "text": "<p>Poeta, ensayista y traductor. Es&nbsp;<span style=\"font-size: 1.125rem;\">editor asociado de Círculo de&nbsp;</span><span style=\"font-size: 1.125rem;\">Poesía. y director de distribución&nbsp;</span><span style=\"font-size: 1.125rem;\">de Visor Libros México, Valpa</span><span style=\"font-size: 1.125rem;\">raíso México y Círculo de Poesía&nbsp;</span><span style=\"font-size: 1.125rem;\">Ediciones. Autor del poemario&nbsp;</span><span style=\"font-size: 1.125rem;\">Yámbicos de escarnio y maldecir&nbsp;</span><span style=\"font-size: 1.125rem;\">(Suri Porfiado, 2016). Ganó con&nbsp;</span><span style=\"font-size: 1.125rem;\">su libro Notas de cata (2010) el&nbsp;</span><span style=\"font-size: 1.125rem;\">Premio Nacional de Poesía Luis&nbsp;</span><span style=\"font-size: 1.125rem;\">Pavía 2010. Fue becario del Fes</span><span style=\"font-size: 1.125rem;\">tival Cultural Interfaz issste&nbsp;</span><span style=\"font-size: 1.125rem;\">en 2014.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Roxana Elvridge-Thomas",
+              "authorBio": "1964",
+              "text": "<p>Es poeta, ensayista y do<span style=\"font-size: 1.125rem;\">cente. Ganó el Premio Nacional&nbsp;</span><span style=\"font-size: 1.125rem;\">de Periodismo Juvenil Elena Po</span><span style=\"font-size: 1.125rem;\">niatowska en 1998 y el Premio&nbsp;</span><span style=\"font-size: 1.125rem;\">Nacional de Poesía Enriqueta&nbsp;</span><span style=\"font-size: 1.125rem;\">Ochoa en 1999. Publicó Fuego&nbsp;</span><span style=\"font-size: 1.125rem;\">(2003), Xavier Villaurrutia... y&nbsp;</span><span style=\"font-size: 1.125rem;\">mi voz que madura (2003) y Gil</span><span style=\"font-size: 1.125rem;\">berto Owen. Con una voz distinta&nbsp;</span><span style=\"font-size: 1.125rem;\">en cada puerto (2004). Actual</span><span style=\"font-size: 1.125rem;\">mente es docente en el Claustro&nbsp;</span><span style=\"font-size: 1.125rem;\">de Sor Juana, la enat y la Uni</span><span style=\"font-size: 1.125rem;\">versidad de Londres.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "David Espino Lozada",
+              "authorBio": "1999",
+              "text": "<p>Es narrador, jefe de edición en\n&nbsp;<span style=\"font-size: 1.125rem;\">Cardenal Revista Literaria y es</span><span style=\"font-size: 1.125rem;\">tudiante de Letras Hispánicas en&nbsp;</span><span style=\"font-size: 1.125rem;\">la unam. Es autor de las publi</span><span style=\"font-size: 1.125rem;\">caciones Areopagítica y elabora&nbsp;</span><span style=\"font-size: 1.125rem;\">actualmente un nuevo libro de&nbsp;</span><span style=\"font-size: 1.125rem;\">novelas cortas.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Andrea Fischer",
+              "authorBio": "1998",
+              "text": "<p><span style=\"font-size: 1.125rem;\">Es escritora, guionista y fotógra</span><span style=\"font-size: 1.125rem;\">fa. Estudia Comunicación en&nbsp;</span><span style=\"font-size: 1.125rem;\">la Universidad Iberoamerica</span><span style=\"font-size: 1.125rem;\">na. Escribió La herencia del frío&nbsp;</span><span style=\"font-size: 1.125rem;\">(2013) y colabora en Wall Street&nbsp;</span><span style=\"font-size: 1.125rem;\">International y Cultura Colectiva.&nbsp;</span><span style=\"font-size: 1.125rem;\">También es editora de Pretextos&nbsp;</span><span style=\"font-size: 1.125rem;\">literarios por escrito y locutora en&nbsp;</span><span style=\"font-size: 1.125rem;\">Ibero 90.9.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Viviana González",
+              "authorBio": "1985",
+              "text": "<p>Es&nbsp;<span style=\"font-size: 1.125rem;\">cuentista y poeta. Estudió en Ma</span><span style=\"font-size: 1.125rem;\">drid una licenciatura en Perio</span><span style=\"font-size: 1.125rem;\">dismo, una maestría en Comuni</span><span style=\"font-size: 1.125rem;\">cación y Arte y una especialidad&nbsp;</span><span style=\"font-size: 1.125rem;\">en Seguridad Internacional. Ha&nbsp;</span><span style=\"font-size: 1.125rem;\">colaborado en diversas publi</span><span style=\"font-size: 1.125rem;\">caciones de México, Cuba y E</span><span style=\"font-size: 1.125rem;\">spaña.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Lorena Hau Ucán",
+              "authorBio": "1982",
+              "text": "<p>Es&nbsp;<span style=\"font-size: 1.125rem;\">traductora, intérprete y docente&nbsp;</span><span style=\"font-size: 1.125rem;\">de lengua maya. Es licenciada en\n&nbsp;</span><span style=\"font-size: 1.125rem;\">Educación Primaria para el Me</span><span style=\"font-size: 1.125rem;\">dio Indígena y en la Escuela de&nbsp;</span><span style=\"font-size: 1.125rem;\">Creación Literaria, en el Progra</span><span style=\"font-size: 1.125rem;\">ma de Formación de Escritores&nbsp;</span><span style=\"font-size: 1.125rem;\">Mayas. Publicó en La Jornada&nbsp;</span><span style=\"font-size: 1.125rem;\">Maya y Los nuevos cantos de la&nbsp;</span><span style=\"font-size: 1.125rem;\">ceiba, Escritores mayas contempo</span><span style=\"font-size: 1.125rem;\">ráneos. También ha sido locuto</span><span style=\"font-size: 1.125rem;\">ra en radio bilingüe. En 2015 fue&nbsp;</span><span style=\"font-size: 1.125rem;\">becaria del fonca.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Karel Leyva",
+              "authorBio": "1975",
+              "text": "<p>Nacido\r&nbsp;<span style=\"font-size: 1.125rem;\">en Cuba, es licenciado en Enfer</span><span style=\"font-size: 1.125rem;\">mería, poeta y promotor cultu</span><span style=\"font-size: 1.125rem;\">ral. Actualmente es Presidente&nbsp;</span><span style=\"font-size: 1.125rem;\">de la Sección de la Asociación de&nbsp;</span><span style=\"font-size: 1.125rem;\">Escritores de la uneac, miembro&nbsp;</span><span style=\"font-size: 1.125rem;\">del Comité Organizador del Fes</span><span style=\"font-size: 1.125rem;\">tival Internacional de Poesía de&nbsp;</span><span style=\"font-size: 1.125rem;\">la Habana y vicepresidente del&nbsp;</span><span style=\"font-size: 1.125rem;\">Grupo Ala Décima. Pubicó Cam</span><span style=\"font-size: 1.125rem;\">bio de marea en 2010.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Giselle Lucía",
+              "authorBio": "1995",
+              "text": "<p>Poeta,\n&nbsp;<span style=\"font-size: 1.125rem;\">narradora, diseñadora y promo</span><span style=\"font-size: 1.125rem;\">tora cultural cubana. Egresó del&nbsp;</span><span style=\"font-size: 1.125rem;\">del Centro de Formación Lite</span><span style=\"font-size: 1.125rem;\">raria Onelio Jorge Cardoso. Su&nbsp;</span><span style=\"font-size: 1.125rem;\">libro de poesía infantil El circo&nbsp;</span><span style=\"font-size: 1.125rem;\">de los asombros y su novela ¿Qué\n&nbsp;</span><span style=\"font-size: 1.125rem;\">nombre tiene tu casa? serán pu</span><span style=\"font-size: 1.125rem;\">blicados por la Editorial Gente&nbsp;</span><span style=\"font-size: 1.125rem;\">Nueva.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Aketzaly Moreno",
+              "authorBio": "1992",
+              "text": "<p>Estudió Lengua y Literaturas&nbsp;<span style=\"font-size: 1.125rem;\">Hispánicas en la unam. En 2018&nbsp;</span><span style=\"font-size: 1.125rem;\">publicó el poemario Vuelo de&nbsp;</span><span style=\"font-size: 1.125rem;\">muerte y organizó el Primer En</span><span style=\"font-size: 1.125rem;\">cuentro Internacional de Poesía&nbsp;</span><span style=\"font-size: 1.125rem;\">y Narrativa en Milpa Alta, Ciud</span><span style=\"font-size: 1.125rem;\">ad de México. En 2019 publicó&nbsp;</span><span style=\"font-size: 1.125rem;\">Nada queda en pie.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Alejandro Paniagua",
+              "authorBio": "1977",
+              "text": "<p>Es poeta y narrador. Estudió&nbsp;<span style=\"font-size: 1.125rem;\">Creación Literaria en la Escuela&nbsp;</span><span style=\"font-size: 1.125rem;\">de Escritores de la sogem y pu</span><span style=\"font-size: 1.125rem;\">blicó Antipsicóticos (Plaza y Val</span><span style=\"font-size: 1.125rem;\">dés, 2013). Fue becario del fonca&nbsp;</span><span style=\"font-size: 1.125rem;\">en 2007 y ganó el Premio Inter</span><span style=\"font-size: 1.125rem;\">nacional de Narrativa Ignacio&nbsp;</span><span style=\"font-size: 1.125rem;\">Manuel Altamirano en 2009. Ha&nbsp;</span><span style=\"font-size: 1.125rem;\">publicado en la Revista de la Uni</span><span style=\"font-size: 1.125rem;\">versidad de México, El Universal y&nbsp;</span><span style=\"font-size: 1.125rem;\">Confabulario.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Ulises Paniagua",
+              "authorBio": "1976",
+              "text": "<p>Es&nbsp;<span style=\"font-size: 1.125rem;\">narrador, poeta y videasta.&nbsp;</span><span style=\"font-size: 1.125rem;\">Estudió dos posgrados en la&nbsp;</span><span style=\"font-size: 1.125rem;\">especialidad de imaginarios&nbsp;</span><span style=\"font-size: 1.125rem;\">literarios. Escribió la novela&nbsp;</span><span style=\"font-size: 1.125rem;\">Ese lugar existe (2017), el libro&nbsp;</span><span style=\"font-size: 1.125rem;\">de cuentos Bitácora del eterno&nbsp;</span><span style=\"font-size: 1.125rem;\">navegante (Abismos, 2015) y&nbsp;</span><span style=\"font-size: 1.125rem;\">el poemario Lo tan negro que&nbsp;</span><span style=\"font-size: 1.125rem;\">respira el Universo (2015). Tam</span><span style=\"font-size: 1.125rem;\">bién es conductor del progra</span><span style=\"font-size: 1.125rem;\">ma Todos los libros, el libro, en&nbsp;</span><span style=\"font-size: 1.125rem;\">Radio sogem.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Mercedes Janeth Soto Sán<span style=\"font-size: 1rem; background-color: initial;\">chez</span>",
+              "authorBio": "1994",
+              "text": "<p>Es oriunda de Los\n&nbsp;<span style=\"font-size: 1.125rem;\">Reyes, Michoacán. Ganó el pri</span><span style=\"font-size: 1.125rem;\">mer lugar en el Concurso de&nbsp;</span><span style=\"font-size: 1.125rem;\">Poesía en Lengua Inglesa por&nbsp;</span><span style=\"font-size: 1.125rem;\">la Universidad de las Américas&nbsp;</span><span style=\"font-size: 1.125rem;\">de la Ciudad de México, 2013.&nbsp;</span><span style=\"font-size: 1.125rem;\">Es licenciada en Derecho por el&nbsp;</span><span style=\"font-size: 1.125rem;\">iteso en 2018 y becaria del Fes</span><span style=\"font-size: 1.125rem;\">tival Cultural Interfaz issste ese&nbsp;</span><span style=\"font-size: 1.125rem;\">mismo año.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "José Manuel Suárez Norie<span style=\"font-size: 1rem; background-color: initial;\">ga</span>",
+              "authorBio": "",
+              "text": "<p>Profesor de literatura con<span style=\"font-size: 1.125rem;\">temporánea y escritura creativa&nbsp;</span><span style=\"font-size: 1.125rem;\">en el Tecnológico de Monterrey.&nbsp;</span><span style=\"font-size: 1.125rem;\">Maestro en Estudios Humanís</span><span style=\"font-size: 1.125rem;\">ticos y Maestro en Ética para la&nbsp;</span><span style=\"font-size: 1.125rem;\">Construcción Social por la Uni</span><span style=\"font-size: 1.125rem;\">versidad de Deusto. Es autor de&nbsp;</span><span style=\"font-size: 1.125rem;\">Literatura y sociedad: aproxima</span><span style=\"font-size: 1.125rem;\">ciones contemporáneas (2014).</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "Álvaro Vallarta",
+              "authorBio": "2000",
+              "text": "<p>Es\r&nbsp;<span style=\"font-size: 1.125rem;\">poeta y traductor a la vez que es</span><span style=\"font-size: 1.125rem;\">tudia Ciencias de la Comunica</span><span style=\"font-size: 1.125rem;\">ción en la unam. Fue becario del&nbsp;</span><span style=\"font-size: 1.125rem;\">Festival Cultural Interfaz isste&nbsp;</span><span style=\"font-size: 1.125rem;\">en 2018. Su primer libro, La pa</span><span style=\"font-size: 1.125rem;\">tria íntima (2018), obtuvo el Pre</span><span style=\"font-size: 1.125rem;\">mio de Poesía Joven unam 2018.</span></p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              }
+            }
+          ],
+          "_name": "testimonials3",
+          "_anchor": "testimonials3-p"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fbfafa",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#1f090c",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#1f090c"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#1f090c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#1f090c"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e4dede"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f4f1f1!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fbfafa"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#1f090c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#1f090c!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/isotipo-1-98x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-e"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1f090c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logotipo-final-14.jpg-128x81.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Dakota No. 91-2 Col. Nápoles, Alcaldía Benito Juárez CP. 03810",
+          "text2": "<strong>Contacto</strong><br>revistaliterariacardenal@gmail.com<br>",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#fbfafa",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-f"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "Conócenos",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fbfafa",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#1f090c",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#1f090c"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#1f090c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#1f090c"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e4dede"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f4f1f1!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fbfafa"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#1f090c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#1f090c!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/isotipo-1-98x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-g"
+        },
+        {
+          "_inherit": "content5",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "text-align": "right",
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#be1e1a",
+              "text-align": "left"
+            },
+            ".lead": {
+              "color": "#fbfafa"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.6"
+          },
+          "title": "Conócenos",
+          "caption": "<p>Una nueva generación de jóvenes escritores está&nbsp;<span style=\"font-size: 1.07rem;\">emergiendo, y su irrupción en el campo de la liter</span><span style=\"font-size: 1.07rem;\">atura se deja sentir hace tiempo y de diversas formas.&nbsp;</span><span style=\"font-size: 1.07rem;\">Herederas de una vigorosa tradición literaria, pero&nbsp;</span><span style=\"font-size: 1.07rem;\">con la mirada dirigida hacia el futuro, Cardenal es un&nbsp;</span><span style=\"font-size: 1.07rem;\">síntoma inequívoco de ello.&nbsp;</span><span style=\"font-size: 1.07rem;\">Frente a todos estos obstáculos, y de manera con</span><span style=\"font-size: 1.07rem;\">trafactual, se alza el vuelo del cardenal junto con su&nbsp;</span><span style=\"font-size: 1.07rem;\">particular trino. Canto inconforme, pero propositivo;&nbsp;</span><span style=\"font-size: 1.07rem;\">inquieto, pero sereno: lo que el lector tiene en sus&nbsp;</span><span style=\"font-size: 1.07rem;\">manos no es otra cosa que un trinar polifónico con las&nbsp;</span><span style=\"font-size: 1.07rem;\">agallas suficientes para adaptarse al cambio de las&nbsp;</span><span style=\"font-size: 1.07rem;\">estaciones y el soplar de los vientos, pero siempre fiel&nbsp;</span><span style=\"font-size: 1.07rem;\">a su búsqueda de la libertad y en defensa de lo bello,&nbsp;</span><span style=\"font-size: 1.07rem;\">haciendo caso omiso de las estéticas canonizadas y&nbsp;</span><span style=\"font-size: 1.07rem;\">los espacios predefinidos para la creatividad, pero&nbsp;</span><span style=\"font-size: 1.07rem;\">sobre todo, atendiedo al canto de los poetas jóvenes&nbsp;</span><span style=\"font-size: 1.07rem;\">que tienen mucho que decir, pero pocas veces son escuchados.</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content8",
+          "_anchor": "content8-m"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#be1e1a",
+              "border-color": "#be1e1a"
+            },
+            "H4": {
+              "color": "#1f090c"
+            },
+            "P": {
+              "color": "#420f14",
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#be1e1a",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fbfafa",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "info",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "bulleted-list",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title1": "Misión",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Somos una revista literaria mexicana especializada en poesía. Publicamos\ntextos exclusivos de escritores emergentes y autores consagrados en un mismo espacio, otorgando acceso a literatura contemporánea internacional.",
+          "title2": "Visión",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Ser líderes en el mercado\nde revistas impresas literarias especializadas en\npoesía en México, para lograr el reconocimiento\nde nuestros escritores a nivel internacional.",
+          "title3": "Valores",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "• <b>Colaboración</b>: La revista se forma gracias a la interacción de autores nuevos y autores consagrados quienes escriben con un\nmismo fin.\n<br>• <b>Compromiso</b>:\nEs de vital importancia cumplir con el desarrollo de los textos en el tiempo estipulado.\n<br>• <b>Creatividad literaria</b>:\nLos textos presentados en la revista son creaciones originales de nuestros colaboradores.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-q"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1f090c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logotipo-final-14.jpg-128x81.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Dakota No. 91-2 Col. Nápoles, Alcaldía Benito Juárez CP. 03810",
+          "text2": "<strong>Contacto</strong><br>revistaliterariacardenal@gmail.com<br>",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#fbfafa",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-h"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "Adquirir",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "columns": "2",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/fondo-web-2000x1224.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fbfafa",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/captura-de-pantalla-18-600x337.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/descarga-2-170x260.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title1": "Número 2",
+          "subtitle1": "Noviembre 2019",
+          "caption1": "Hay en las páginas de este segundo número dos\nescritores consagrados: la poeta Roxana Elvridge-Thomas y el novelista Mario Bellatin. A su lado,\nen Cardinalidae cornu, brillan con propia luz ocho\njóvenes poetas entre los que se encuentran estudiantes universitarios, editores y docentes de nuestro país. Hombro con hombro también se erige la sección de narrativa Passeri plectrum, que se nutre\ncon las colaboraciones de David Espino Lozada y\nAndrea Fischer.",
+          "title2": "Número 3",
+          "subtitle2": "Junio 2020",
+          "caption2": "Fieles a nuestros objetivos, y en busca de mantener las mentes abiertas en estos tiempos de confinamiento, esta edición especial busca reforzar los vínculos entre los escritores más importantes de México y la emergente generación literaria. Es un proyecto que conjunta el esfuerzo y dedicación de muchas personas para albergar punto de encuentro donde la literatura en sus\ndiferentes manifestaciones posibilite que los jóvenes podamos aprender de los más experimentados, y viceversa.",
+          "title3": "Siguiente número",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMPRAR</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMPRAR</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-danger\" data-toolbar=\"-mbrBtnMove\">COMPRAR</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-r",
+          "_styles": {
+            "H4": {
+              "color": "#be1e1a"
+            },
+            "H5": {
+              "color": "#420f14"
+            },
+            "P": {
+              "color": "#1f090c",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fbfafa",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#1f090c",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#1f090c"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#1f090c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#1f090c"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e4dede"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f4f1f1!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fbfafa"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#1f090c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#1f090c!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/isotipo-1-98x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-k"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1f090c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logotipo-final-14.jpg-128x81.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Dakota No. 91-2 Col. Nápoles, Alcaldía Benito Juárez CP. 03810",
+          "text2": "<strong>Contacto</strong><br>revistaliterariacardenal@gmail.com<br>",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#fbfafa",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-l"
+        }
+      ]
+    }
+  }
+}
