@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cardenal",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -33,7 +33,7 @@
     "versionFirst": "4.12.3",
     "siteFonts": [],
     "imageResize": true,
-    "uniqCompNum": 28,
+    "uniqCompNum": 36,
     "versionPublish": "4.12.3",
     "favicon": false,
     "robotsSwitcher": false,
@@ -59,7 +59,8 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#1f090c"
+              "color": "#1f090c",
+              "text-align": "left"
             },
             ".mbr-section-lead": {
               "color": "#420f14"
@@ -202,7 +203,7 @@
             "fontColor": "#1f090c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">BRAND CENTER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -643,7 +644,7 @@
             "fontColor": "#1f090c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">BRAND CENTER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -781,7 +782,7 @@
             "fontColor": "#1f090c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">BRAND CENTER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -890,7 +891,7 @@
             "overlayOpacity": "0.6"
           },
           "title": "Conócenos",
-          "caption": "<p>Una nueva generación de jóvenes escritores está&nbsp;<span style=\"font-size: 1.07rem;\">emergiendo, y su irrupción en el campo de la liter</span><span style=\"font-size: 1.07rem;\">atura se deja sentir hace tiempo y de diversas formas.&nbsp;</span><span style=\"font-size: 1.07rem;\">Herederas de una vigorosa tradición literaria, pero&nbsp;</span><span style=\"font-size: 1.07rem;\">con la mirada dirigida hacia el futuro, Cardenal es un&nbsp;</span><span style=\"font-size: 1.07rem;\">síntoma inequívoco de ello.&nbsp;</span><span style=\"font-size: 1.07rem;\">Frente a todos estos obstáculos, y de manera con</span><span style=\"font-size: 1.07rem;\">trafactual, se alza el vuelo del cardenal junto con su&nbsp;</span><span style=\"font-size: 1.07rem;\">particular trino. Canto inconforme, pero propositivo;&nbsp;</span><span style=\"font-size: 1.07rem;\">inquieto, pero sereno: lo que el lector tiene en sus&nbsp;</span><span style=\"font-size: 1.07rem;\">manos no es otra cosa que un trinar polifónico con las&nbsp;</span><span style=\"font-size: 1.07rem;\">agallas suficientes para adaptarse al cambio de las&nbsp;</span><span style=\"font-size: 1.07rem;\">estaciones y el soplar de los vientos, pero siempre fiel&nbsp;</span><span style=\"font-size: 1.07rem;\">a su búsqueda de la libertad y en defensa de lo bello,&nbsp;</span><span style=\"font-size: 1.07rem;\">haciendo caso omiso de las estéticas canonizadas y&nbsp;</span><span style=\"font-size: 1.07rem;\">los espacios predefinidos para la creatividad, pero&nbsp;</span><span style=\"font-size: 1.07rem;\">sobre todo, atendiedo al canto de los poetas jóvenes&nbsp;</span><span style=\"font-size: 1.07rem;\">que tienen mucho que decir, pero pocas veces son escuchados.</span></p>",
+          "caption": "<p>Una nueva generación de jóvenes escritores está&nbsp;<span style=\"font-size: 1.07rem;\">emergiendo, y su irrupción en el campo de la liter</span><span style=\"font-size: 1.07rem;\">atura se deja sentir hace tiempo y de diversas formas.&nbsp;</span><span style=\"font-size: 1.07rem;\">Heredera de una vigorosa tradición literaria, pero&nbsp;</span><span style=\"font-size: 1.07rem;\">con la mirada dirigida hacia el futuro, Cardenal es un&nbsp;</span><span style=\"font-size: 1.07rem;\">síntoma inequívoco de ello.&nbsp;</span><span style=\"font-size: 1.07rem;\">Frente a todos estos obstáculos, y de manera con</span><span style=\"font-size: 1.07rem;\">trafactual, se alza el vuelo del cardenal junto con su&nbsp;</span><span style=\"font-size: 1.07rem;\">particular trino. Canto inconforme, pero propositivo;&nbsp;</span><span style=\"font-size: 1.07rem;\">inquieto, pero sereno: lo que el lector tiene en sus&nbsp;</span><span style=\"font-size: 1.07rem;\">manos no es otra cosa que un trinar polifónico con las&nbsp;</span><span style=\"font-size: 1.07rem;\">agallas suficientes para adaptarse al cambio de las&nbsp;</span><span style=\"font-size: 1.07rem;\">estaciones y el soplar de los vientos, pero siempre fiel&nbsp;</span><span style=\"font-size: 1.07rem;\">a su búsqueda de la libertad y en defensa de lo bello,&nbsp;</span><span style=\"font-size: 1.07rem;\">haciendo caso omiso de las estéticas canonizadas y&nbsp;</span><span style=\"font-size: 1.07rem;\">los espacios predefinidos para la creatividad, pero&nbsp;</span><span style=\"font-size: 1.07rem;\">sobre todo, atendiedo al canto de los poetas jóvenes&nbsp;</span><span style=\"font-size: 1.07rem;\">que tienen mucho que decir, pero pocas veces son escuchados.</span></p>",
           "_tags": [
             "Theme"
           ],
@@ -1222,7 +1223,7 @@
             "fontColor": "#1f090c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">BRAND CENTER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -1336,6 +1337,194 @@
             }
           },
           "_anchor": "contacts1-l"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Brand center",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, .lead": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#1f090c",
+              "text-align": "center"
+            },
+            ".lead": {
+              "color": "#420f14",
+              "text-align": "center",
+              "font-size": "20px",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fondo-web-2000x1224.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fbfafa",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fbfafa",
+            "overlayOpacity": "0.3"
+          },
+          "title": "Brand Center",
+          "text": "El primer paso a la libertad ideológica es la expresión.",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"assets/files/PCEA-CardenalVertical.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DESCARGAR</a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-y"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#fbfafa",
+            "fontSize": "1",
+            "fontName": {},
+            "fontColor": "#1f090c",
+            "fontHoverColor": "@primaryColor"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\">BRAND CENTER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#1f090c"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#1f090c"
+            },
+            ".link, .dropdown-item": {
+              "color": "#1f090c"
+            },
+            ".link": {
+              "font-size": "1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.083rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e4dede"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f4f1f1!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#fbfafa"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#1f090c",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#1f090c!important"
+            }
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/isotipo-1-98x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-s"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#1f090c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logotipo-final-14.jpg-128x81.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Dirección</strong><br>Dakota No. 91-2 Col. Nápoles, Alcaldía Benito Juárez CP. 03810",
+          "text2": "<strong>Contacto</strong><br>revistaliterariacardenal@gmail.com<br>",
+          "text3": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#fbfafa",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-t"
         }
       ]
     }
