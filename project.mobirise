@@ -1122,7 +1122,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "Brand Center",
-          "text": "El primer paso a la libertad ideológica es la expresión.",
+          "text": "<p>El primer paso a la libertad ideológica es la expresión.<br></p>",
           "_tags": [
             "Theme"
           ],
