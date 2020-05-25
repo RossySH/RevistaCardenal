@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Cardenal",
-    "currentPage": "page3.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -203,7 +203,7 @@
             "fontColor": "#1f090c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a>   </li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -644,7 +644,7 @@
             "fontColor": "#1f090c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a>   </li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -782,7 +782,7 @@
             "fontColor": "#1f090c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a>   </li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -884,7 +884,10 @@
             "bgColor": "#fff",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/_rNfK5K7gMA?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/_rNfK5K7gMA",
+              "width": 1280,
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#000",
@@ -1218,7 +1221,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/descarga-2-170x260.png",
+              "src": "@PROJECT_PATH@/assets/images/portada-1-2-1-170x257.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1261,10 +1264,10 @@
           },
           "title1": "Número 2",
           "subtitle1": "Noviembre 2019",
-          "caption1": "Hay en las páginas de este segundo número dos\nescritores consagrados: la poeta Roxana Elvridge-Thomas y el novelista Mario Bellatin. A su lado,\nen Cardinalidae cornu, brillan con propia luz ocho\njóvenes poetas entre los que se encuentran estudiantes universitarios, editores y docentes de nuestro país. Hombro con hombro también se erige la sección de narrativa Passeri plectrum, que se nutre\ncon las colaboraciones de David Espino Lozada y\nAndrea Fischer.",
+          "caption1": "En el Comité Editorial de Cardenal\nestamos profundamente agradecidos con la gran acogida que tuvo el primer número de la revista\nen diferentes espacios como la Ñibrería Jorge Cuesta, la\nUAM- Iztapalapa y el Museo Iconográfico del Quijote,\nen Guanajuato. Conscientes de la gran responsabilidad\nque ello implica hemos redoblado nuestros esfuerzos,\npues estamos decididos a corresponder con la exigencia\nde nuestros lectores.",
           "title2": "Número 3",
           "subtitle2": "Junio 2020",
-          "caption2": "Fieles a nuestros objetivos, y en busca de mantener las mentes abiertas en estos tiempos de confinamiento, esta edición especial busca reforzar los vínculos entre los escritores más importantes de México y la emergente generación literaria. Es un proyecto que conjunta el esfuerzo y dedicación de muchas personas para albergar punto de encuentro donde la literatura en sus\ndiferentes manifestaciones posibilite que los jóvenes podamos aprender de los más experimentados, y viceversa.",
+          "caption2": "El compromiso de dar voz a todos los autores, sean emergentes o consagrados, siempre ha sido el objetivo fundamental de Cardenal, Revista Literaria, sin embargo, a partir del desarrollo de un Plan de Comunicación Estratégica Aplicada, nos dimos cuenta que nuestra identidad gráfica y corporativa, no lo transmitía en su totalidad. Como resultado, lanzamos este número especial, no solo para presentar frente a nuestros lectores los nuevos identificadores visuales de la revista, sino también para recordarles, ahora más que nunca, que queremos difundir su palabra, escucharlos a todos y darles voz.",
           "title3": "Siguiente número",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
@@ -1316,7 +1319,7 @@
             "fontColor": "#1f090c",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a>   </li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">INICIO</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page3.html\">CONÓCENOS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page2.html\">NUESTROS AUTORES</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page5.html\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"page4.html\">ADQUIRIR</a></li>",
           "_tags": [
             "Theme"
           ],
